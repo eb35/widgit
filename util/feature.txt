@@ -1,0 +1,6 @@
+feature 1 implementation
+
+feature 2 implementation
+ - added ability handle multiple weights/widgets/whatever
+
+feature 3 implementation
